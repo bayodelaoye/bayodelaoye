@@ -44,5 +44,5 @@ I've been learning to code for a few years now. I really enjoy Front End Web Dev
 </p>
 
 ### Socials
-<a href="https://www.linkedin.com/in/bayode-o/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/bayode-o/" target="_blank" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
