@@ -25,7 +25,7 @@ I've been learning to code for a few years now. I really enjoy Front End Web Dev
 * 👨🏼‍💻 Currently looking for a full time position
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [My Portfolio](https://bayodes.com/)
-* ✉️  Contact me: [laoye.bayode27@gmail.com](mailto:laoye.bayode27@gmail.com)
+* ✉️  Contact me: [laoye.bayode@gmail.com](mailto:laoye.bayode@gmail.com)
 * 🧠  I'm learning Full Stack Development. Mastering Javascript, React, and CSS.
 * 🌟  I'm a rare tech extrovert.
 
