@@ -18,7 +18,7 @@ Hi 👋 My name is Bayode Olaoye
 Software Engineer
 ------------------------
 
-I'm a Software Engineer with a rich background in both front-end and back-end development. I've been continuously expanding my skills and expertise as I really enjoy Full Stack Development!
+I'm a Software Engineer with a rich background in both front-end and back-end development. I've been continuously expanding my skills and expertise as I really enjoy Web Development!
 
 * 👨🏼‍💻 Currently looking for a full time position
 * 🌍  I'm based in the United States
