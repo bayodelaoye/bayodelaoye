@@ -24,7 +24,7 @@ I'm a Software Engineer with a rich background in both front-end and back-end de
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [My Portfolio](https://bayodeolaoye.onrender.com/)
 * ✉️  You can contact me at: [laoye.bayode@gmail.com](mailto:laoye.bayode@gmail.com)
-* 🧠  I'm learning Full Stack Development. Mastering Javascript, React, and CSS.
+* 🧠  Mastering Javascript, React, and CSS.
 * 🌟  I'm a rare tech extrovert.
 
 ### Skills
